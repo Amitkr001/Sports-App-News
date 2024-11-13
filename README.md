@@ -15,4 +15,4 @@ A basic app to introduce to adaptative layouts.
 - adding custom back navigation.
 - locking the SlidingPanelLayout to prevent users from swiping in and out.
 
-Based on [Adaptive Layouts](https://developer.android.com/codelabs/basic-android-kotlin-training-adaptive-layouts#0) by Google Codelabs (2022).
+Based on [Adaptive Layouts](https://developer.android.com/codelabs/basic-android-kotlin-training-adaptive-layouts#0) by Google Codelabs (2024).
